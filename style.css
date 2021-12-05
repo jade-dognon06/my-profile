@@ -1,0 +1,89 @@
+
+@media (max-device-width: 540px) {
+/* For a screen <540px, this CSS will be read */
+.wrapper {
+ display: block;
+  }
+
+}
+
+h1 {
+	font-size: 40px;
+	colar:  rgb(200,200,200);
+	color: grey;
+	border-width: 30px;
+	border-color: goldenrod;
+	font-style: italic;
+	text-decoration: underline;
+
+}
+
+h2{
+	front-size:  25px;
+	color: black;
+}
+
+h3{
+	front-size:  25px;
+	color: black;
+}
+
+.premier
+{
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+.second
+{
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+.dernier
+
+{
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+
+.rs{
+	color: skyblue;
+}
+
+img{
+	    width: 230px;
+   	    border-radius: 100px;
+   	    margin-left: auto;
+   	    margin-right: auto;
+   	    align-content: center;
+
+}
+
+h1{
+	    text-align: center
+}
+
+h2{
+	border: 2px solid black;
+	text-align: center
+}
+
+Body{
+	background-image: url(fond.JPG) ;
+	text-align: center;
+}
+
+body
+{
+    font-family: georgia;
+}
+
+
